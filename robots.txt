@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://kurniacahyasejahtera.com/sitemap.xml
